@@ -5853,7 +5853,7 @@ textarea {
 
 @media (max-width:992px) {
 	.card-container {
-		padding: 2rem;
+		padding: 2rem 0rem;
 		margin-top: -5em
 	}
 }
