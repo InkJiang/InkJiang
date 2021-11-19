@@ -5834,7 +5834,7 @@ textarea {
 	background-color: #fff;
 	padding: 2rem 5rem;
 	position: relative;
-	width: 80%;
+	width: 90%;
 	margin: -10em auto 20px
 }
 .card-container>p{
@@ -5863,6 +5863,9 @@ textarea {
 		width: 95%;
 		padding: 2rem 3em;
 		margin-top: -10em
+	}
+	.h2, h2{
+		font-size: 22px;
 	}
 }
 
